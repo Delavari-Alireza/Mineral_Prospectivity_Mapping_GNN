@@ -11,16 +11,36 @@ Mineral Prospectivity Mapping (MPM) is a critical step in mineral exploration, a
 - **deepGAT.ipynb**: Deep Graph Attention Network implementation.
   - **Accuracy:** Validation (~81%), Training (~94%).
 
-  ![deepGAT Results](images/deepGAT_result.png)
 
 - **GAT.ipynb**: Graph Attention Network implementation.
 
-  ![GAT Results](images/GAT_result.png)
 
 - **GCN.ipynb**: Simple Graph Convolutional Network implementation.
   - **Accuracy:** Validation (~91%), Training (~94%).
 
-  ![GCN Results](images/GCN_result.png)
+
+
+## Results
+
+### Deep Graph Attention Network (DeepGAT)
+
+<p align="center">
+  <img src="/images/DeepGat-knn2.jpg" width="45%" />
+  <img src="/images/DeepGat-knn5.jpg" width="45%" />
+</p>
+
+### Graph Attention Network (GAT)
+
+<p align="center">
+  <img src="/images/Gat-knn2.jpg" width="45%" />
+  <img src="/images/Gat-knn5.jpg" width="45%" />
+</p>
+
+### Graph Convolutional Network (GCN)
+
+<p align="center">
+  <img src="/images/GCN-knn2.jpg" width="45%" />
+</p>
 
 
 ## Data Used
