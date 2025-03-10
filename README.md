@@ -43,7 +43,7 @@ Mineral Prospectivity Mapping (MPM) is a critical step in mineral exploration, a
 
 ## Data Used
 
-Dataset: `label_deposit_nondeposit.csv` with geospatial fuzzy membership features and coordinates.
+Dataset: geospatial fuzzy membership features and coordinates.
 
 ### Data Columns:
 - **OBJECTID**, **pointid**: Identifiers.
