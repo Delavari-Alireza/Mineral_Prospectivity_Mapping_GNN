@@ -72,14 +72,14 @@ pip install torch torch-geometric pandas numpy sklearn
 ## Repository Structure
 ```
 ├── images
-│   ├── deepGAT_result.png
-│   ├── GAT_result.png
-│   └── GCN_result.png
+│   ├── DeepGat-knn2.jpg
+│   ├── DeepGat-knn5.jpg
+│   ├── Gat-knn2.jpg
+│   ├── Gat-knn5.jpg
+│   └── GCN-knn2.jpg
 ├── deepGAT.ipynb
 ├── GAT.ipynb
 ├── GCN.ipynb
-├── label_deposit_nondeposit.csv
-├── predicted_data_deepGAT_KNN2.xlsx
 ├── README.md
 ```
 
